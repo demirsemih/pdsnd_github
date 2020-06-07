@@ -18,7 +18,7 @@ def check_input(input_str, input_type):
                 break
             else:
                 if input_type == 1 or input_type == 2 or input_type == 3 :
-                    print('Sorry that is not a valid input. Please try again.')
+                    print('Input invalid. Please try again.')
 
         except ValueError:
                 print('Sorry Error input')
