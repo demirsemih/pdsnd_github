@@ -1,15 +1,15 @@
 ### Date created
-Include the date you created this project and README file.
+2020.06.07
 
 ### Project Title
-Replace the Project Title
+Github Project Udacity Programming for Data Science
 
 ### Description
-Describe what your project is about and what it does
+simulating a realistic workflow to refactor your previous BikeShare project using Git
 
 ### Files used
-Include the files used
+.gitignore
+bikeshare.py
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
