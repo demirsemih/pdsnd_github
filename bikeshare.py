@@ -18,7 +18,7 @@ def check_input(input_str, input_type):
                 break
             else:
                 if input_type == 1 or input_type == 2 or input_type == 3 :
-                    print('Sorry that is not a valid input. Please try again.')
+                    print('Input invalid. Please try again.')
 
         except ValueError:
                 print('Sorry Error input')
@@ -202,7 +202,7 @@ def main():
         user_stats(df)
         display_data(df)
 
-        restart = input('\nWould you like to restart? Enter yes or no.\n')
+        restart = input('\nDo you want to restart? Enter yes or no.\n')
         if restart.lower() != 'yes':
             break
 
