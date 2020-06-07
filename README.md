@@ -7,6 +7,7 @@ Github Project Udacity Programming for Data Science
 ### Description
 simulating a realistic workflow to refactor your previous BikeShare project using Git
 Project manager: Semih Demir
+Company: BMW Group
 
 
 ### Files used
